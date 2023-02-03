@@ -101,7 +101,7 @@ class Game
         div.className = "tile";
         div.style.left = x + "px";
         div.style.top = y + "px";
-        //Jerukpurut404//
+        //CHRISDEBLIDZ//
         div.textContent = tileDisplayNumber;      
         this.boardDiv.appendChild(div);
 
